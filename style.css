@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.foguete{
+    width: 3%;
+    margin-left: 2%;
+
+}
+.titulo-game{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50%;
+    margin-bottom: 1%;
+    
+}
+body{
+    background: linear-gradient(180deg, rgba(24, 24, 24, 0.84) 38.19%, #FFFFFF 108.32%);
+    margin-left: 32%;
+    margin-bottom: 10.8%;
+    
+}
+
+
+p{
+    color: black;
+}
